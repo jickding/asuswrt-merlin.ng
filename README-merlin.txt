@@ -112,6 +112,8 @@ Networking:
      only)
    - Modern DDNS client (In-a-Dyn), with HTTPS support
    - DNS-over-TLS support
+   - Redirect NTP client queries to the router's own NTP daemon
+   - WS-Discovery support (alternative to SMBv1 network discovery)
 
 
 Web interface:
